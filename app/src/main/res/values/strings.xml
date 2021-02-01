@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio3</string>
+    <string name = "pesoString">Peso:</string>
+    <string name = "alturaString">Altura:</string>
+    <string name = "expBaseString">Exp Base:</string>
+    <string name = "Tipos">Tipos:</string>
+
+
+</resources>
